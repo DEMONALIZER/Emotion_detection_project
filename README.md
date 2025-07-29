@@ -1,2 +1,2 @@
-# Mood_detection_project
-In this project main motive is detect your current mood and suggest to play some songs for you  
+install python idle version 3.10
+next install necessary library
