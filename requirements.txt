@@ -4,4 +4,5 @@ tensorflow
 keras
 streamlit
 opencv-python-headless
+pygame
 pillow
