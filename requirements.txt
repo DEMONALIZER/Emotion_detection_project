@@ -2,5 +2,6 @@ flask
 numpy
 tensorflow
 keras
-opencv-python
+streamlit
+opencv-python-headless
 pillow
